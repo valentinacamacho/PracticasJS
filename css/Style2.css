@@ -1,0 +1,56 @@
+/*Button registerData | registrar datos del usuario*/
+.registerData {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #3cd641;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #0a7726;
+}
+
+.registerData:hover {
+    background-color: #1d9921;
+    color: white;
+}
+
+.registrerData:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+
+  /*Button results | ver resultados del usuario*/
+
+  .results {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #008CBA;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #095775;
+}
+
+.results:hover {
+    background-color: #064394f8;
+    color: white;
+}
+
+.results:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
